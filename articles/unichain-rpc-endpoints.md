@@ -194,7 +194,3 @@ Compare pricing against expected request volume, method weights, overage rules, 
 ### Does testnet support matter for Unichain?
 
 Yes. Reliable testnet RPC helps teams test contracts, staging workflows, wallet integrations, transaction retry logic, and release processes before production traffic reaches mainnet.
-
-## Related Keywords
-
-unichain rpc, unichain endpoint, unichain node, unichain api

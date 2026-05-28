@@ -194,7 +194,3 @@ Compare pricing against expected request volume, method weights, overage rules, 
 ### Does testnet support matter for Starknet?
 
 Yes. Reliable testnet RPC helps teams test contracts, staging workflows, wallet integrations, transaction retry logic, and release processes before production traffic reaches mainnet.
-
-## Related Keywords
-
-starknet rpc, starknet node, starknet rpc endpoint, starknet api

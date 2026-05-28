@@ -97,7 +97,3 @@ Public RPC can be useful for testing, but trading and backend systems usually ne
 ### How should I benchmark Hyperliquid RPC?
 
 Benchmark with the methods, deployment region, burst patterns, and retry behaviour your production workload actually uses.
-
-## Related Keywords
-
-Hyperliquid RPC provider, Hyperliquid RPC endpoint, low latency Hyperliquid RPC, HyperEVM RPC provider, trading RPC infrastructure, private Hyperliquid RPC

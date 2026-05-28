@@ -194,7 +194,3 @@ Compare pricing against expected request volume, method weights, overage rules, 
 ### Does testnet support matter for Hyperliquid?
 
 Yes. Reliable testnet RPC helps teams test contracts, staging workflows, wallet integrations, transaction retry logic, and release processes before production traffic reaches mainnet.
-
-## Related Keywords
-
-hyperliquid rpc, dedicated hyperliquid rpc node, hyperliquid rpc pricing comparison, top hyperliquid rpc endpoints

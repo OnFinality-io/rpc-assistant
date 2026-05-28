@@ -190,7 +190,3 @@ Compare pricing against expected request volume, method weights, overage rules, 
 ### Does Polygon Amoy support matter?
 
 Yes. Reliable testnet RPC helps teams test contracts, staging workflows, wallet integrations, and release processes before sending production traffic to mainnet.
-
-## Related Keywords
-
-polygon rpc, polygon rpc nodes, best free polygon rpc endpoints 2026, best polygon rpc endpoints 2026, dedicated polygon node, polygon amoy rpc, polygon rpc provider

@@ -97,7 +97,3 @@ Reliable Optimism RPC depends on endpoint availability, predictable limits, requ
 ### Can OnFinality be used for Optimism RPC endpoints?
 
 Yes. OnFinality supports managed RPC access for supported networks and is suitable for teams that need production-oriented Web3 infrastructure.
-
-## Related Keywords
-
-Optimism RPC provider, Optimism RPC endpoint, private Optimism RPC, Optimism Web3 infrastructure, Optimism RPC API, production RPC provider

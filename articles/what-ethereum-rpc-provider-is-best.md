@@ -97,7 +97,3 @@ Private or authenticated Ethereum RPC is recommended when your app needs stable 
 ### Does every Ethereum app need archive RPC?
 
 No. Archive RPC is only needed for workloads that query historical state or require deeper historical analysis. Many apps can use standard RPC access.
-
-## Related Keywords
-
-Ethereum RPC provider, Ethereum RPC endpoint, private Ethereum RPC, Ethereum archive RPC, Ethereum Trace API, Web3 RPC provider

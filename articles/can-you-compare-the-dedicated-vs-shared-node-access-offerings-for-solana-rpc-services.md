@@ -165,7 +165,3 @@ Use dedicated access when request volume, latency sensitivity, transaction value
 ### Do I need Solana Devnet RPC too?
 
 Yes, if your team deploys, tests, or validates workflows before mainnet. OnFinality Solana Devnet access is available at https://onfinality.io/en/networks/solana-devnet.
-
-## Related Keywords
-
-dedicated Solana RPC, shared Solana RPC, Solana RPC services, Solana node access, Solana RPC provider comparison

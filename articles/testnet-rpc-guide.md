@@ -190,7 +190,3 @@ Compare pricing against expected request volume, method weights, overage rules, 
 ### Does Sepolia, BNB testnet, Solana Devnet, Polygon Amoy, and Arbitrum Sepolia support matter?
 
 Yes. Reliable testnet RPC helps teams test contracts, staging workflows, wallet integrations, and release processes before sending production traffic to mainnet.
-
-## Related Keywords
-
-sepolia rpc, arbitrum sepolia rpc, bnb testnet rpc, bsc testnet rpc, polygon amoy testnet rpc, sepolia public rpc, solana devnet rpc, bitcoin testnet, bnb testnet

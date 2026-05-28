@@ -194,7 +194,3 @@ Compare pricing against expected request volume, method weights, overage rules, 
 ### Does testnet support matter for Monad?
 
 Yes. Reliable testnet RPC helps teams test contracts, staging workflows, wallet integrations, transaction retry logic, and release processes before production traffic reaches mainnet.
-
-## Related Keywords
-
-monad rpc provider, best monad rpc, monad node provider, monad rpc service

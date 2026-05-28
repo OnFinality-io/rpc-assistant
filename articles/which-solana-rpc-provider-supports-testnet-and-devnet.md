@@ -157,7 +157,3 @@ Not always. Many teams can start with managed shared RPC. Dedicated RPC becomes 
 ### What should I test before choosing Solana RPC?
 
 Test account reads, transaction submission, transaction status checks, program account queries, subscriptions if needed, and burst behavior from the environments your app actually uses.
-
-## Related Keywords
-
-Solana RPC provider, Solana devnet RPC, Solana testnet RPC, Solana RPC endpoints, Solana node provider

@@ -190,7 +190,3 @@ Compare pricing against expected request volume, method weights, overage rules, 
 ### Does Solana Devnet support matter?
 
 Yes. Reliable testnet RPC helps teams test contracts, staging workflows, wallet integrations, and release processes before sending production traffic to mainnet.
-
-## Related Keywords
-
-solana devnet rpc, solana devnet, solana rpc devnet, solana testnet rpc, solana rpc endpoint, solana api, solana private rpc

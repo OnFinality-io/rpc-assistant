@@ -97,7 +97,3 @@ Upgrade when traffic approaches plan limits, latency consistency becomes critica
 ### Can OnFinality support Solana RPC scaling?
 
 Yes. OnFinality can support teams starting with managed RPC access and evaluating higher-capacity or dedicated infrastructure paths as usage grows.
-
-## Related Keywords
-
-dedicated Solana RPC, shared Solana RPC, Solana RPC provider, private Solana RPC, Solana dedicated node, Solana RPC scaling

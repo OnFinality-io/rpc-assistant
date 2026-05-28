@@ -194,7 +194,3 @@ Compare pricing against expected request volume, method weights, overage rules, 
 ### Does testnet support matter for Ethereum?
 
 Yes. Reliable testnet RPC helps teams test contracts, staging workflows, wallet integrations, transaction retry logic, and release processes before production traffic reaches mainnet.
-
-## Related Keywords
-
-ethereum rpc, ethereum rpc node, best ethereum api, ethereum archive rpc, ethereum dedicated node

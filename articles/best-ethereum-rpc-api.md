@@ -214,7 +214,3 @@ Compare pricing against expected request volume, response-unit rules, archive or
 ### Can one Ethereum RPC endpoint serve both frontend and backend workloads?
 
 It can during early development, but production teams often separate frontend user traffic from backend indexing, analytics, or monitoring jobs so one workload does not consume capacity needed by another.
-
-## Related Keywords
-
-leading ethereum rpc solutions, best ethereum rpc api for web3 use, top-rated ethereum rpc service, ethereum rpc, ethereum rpc node, ethereum node hosting, dedicated ethereum rpc node provider

@@ -196,7 +196,3 @@ An RPC provider cannot fix incorrect transaction sequencing in your application,
 ### Should backend services manage nonces manually?
 
 Backend services should manage nonces deliberately when they submit transactions from shared sender accounts. A queue, nonce manager, or signing service is safer than independent workers reading and signing at the same time.
-
-## Related Keywords
-
-what is nonce in blockchain, nonce in blockchain, what is a nonce crypto, nonce blockchain, blockchain nonce, nonce is already consumed, nonce too low, nonce ethereum

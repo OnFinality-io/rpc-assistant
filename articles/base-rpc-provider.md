@@ -190,7 +190,3 @@ Compare pricing against expected request volume, method weights, overage rules, 
 ### Does Base Sepolia support matter?
 
 Yes. Reliable testnet RPC helps teams test contracts, staging workflows, wallet integrations, and release processes before sending production traffic to mainnet.
-
-## Related Keywords
-
-base rpc provider, top base rpc providers, best base rpc node services for cross-chain bridging, dedicated base rpc node provider, best rpc provider for building on base chain, base rpc api, base rpc, base rpc node

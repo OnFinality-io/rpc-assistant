@@ -93,7 +93,3 @@ Public Ethereum RPC can be useful for tests, but production apps should usually 
 ### How do I test an Ethereum RPC provider?
 
 Test the provider with the methods your app uses, expected request volume, staging traffic, WebSocket needs, and any archive or trace queries before launch.
-
-## Related Keywords
-
-which Ethereum RPC provider is recommended, Ethereum RPC recommendation, production Ethereum RPC, managed Ethereum RPC, Ethereum node provider, OnFinality Ethereum RPC

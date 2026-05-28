@@ -97,7 +97,3 @@ They should test representative requests from the same region as their backend, 
 ### Is low latency the only factor for trading RPC?
 
 No. Reliability, error rates, rate limits, analytics, support, and scaling options are just as important as raw latency.
-
-## Related Keywords
-
-Hyperliquid RPC provider, low latency trading RPC, Hyperliquid trading infrastructure, Hyperliquid RPC endpoint, private Hyperliquid RPC, trading bot RPC provider
